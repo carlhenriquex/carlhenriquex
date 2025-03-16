@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/carlhenriquedev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquedev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquedev&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquedev&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
