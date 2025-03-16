@@ -1,6 +1,6 @@
 ## Hello world!✌️
 
-<div style="display: inline_block">
+<div style="display: flex; flex-wrap: nowrap;">
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquedev&show_icons=true&theme=tokyonight"></a>
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
