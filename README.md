@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquedev&show_icons=true&theme=tokyonight"></a>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquedev&show_icons=true&theme=tokyonight"></a>
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquedev&layout=compact&langs_count=16&theme=tokyonight"></a>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquedev&layout=compact&langs_count=16&theme=tokyonight"></a>
 </div>
 
 ##
