@@ -4,7 +4,7 @@
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquex&show_icons=true&theme=tokyonight"></a>
   <a href="https://github.com/carlhenriquedev" style="text-decoration: none;">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5"></a>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=9&theme=tokyonight&size_weight=0.5&count_weight=0.5"></a>
 </div>
 
 ##
