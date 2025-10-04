@@ -39,6 +39,6 @@
 
 ### 💬 Vamos conversar?
 
-Me chama no [LinkedIn](www.linkedin.com/in/carloshenriquex) ou confira meus repositórios aqui no GitHub!
+Me chama no [LinkedIn](www.linkedin.com/in/carlos-henrique-x) ou confira meus repositórios aqui no GitHub!
 
 ##
