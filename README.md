@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=carlhenriquex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="text-decoration: none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=carlhenriquex&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&theme=tokyonight">
+  </a> <br>
+  <a href="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&include_all_commits=true&count_private=true" style="text-decoration: none;">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&include_all_commits=true&count_private=true">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=9&theme=tokyonight&size_weight=0.5&count_weight=0.5" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5">
-  </a>
-  <a href="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&include_all_commits=true&count_private=true" style="text-decoration: none;">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&include_all_commits=true&count_private=true">
   </a>
 </div>
 
