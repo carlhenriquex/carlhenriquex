@@ -9,6 +9,10 @@
 
 ---
 
+**Back-End Software Scientist | Web Developer | Mobile Developer**
+
+---
+
 ### 🚀 Minhas Stacks
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/></code>
@@ -32,7 +36,7 @@
     <img height="180em" src="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&include_all_commits=true&count_private=true">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=9&theme=tokyonight&size_weight=0.5&count_weight=0.5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=9&theme=tokyonight&size_weight=0.5&count_weight=0.5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5">
   </a>
 </div>
 
