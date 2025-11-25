@@ -35,8 +35,8 @@
   <a href="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&count_private=true">
     <img height="180em" src="https://streak-stats.demolab.com/?user=carlhenriquex&theme=tokyonight&count_private=true">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=9&theme=tokyonight&size_weight=0.5&count_weight=0.5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=11&theme=tokyonight&size_weight=0.5&count_weight=0.5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=11&theme=tokyonight&size_weight=0.5&count_weight=0.5">
   </a>
 </div>
 
