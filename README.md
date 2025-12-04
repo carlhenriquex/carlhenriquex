@@ -23,7 +23,12 @@
 </div>
 <br><br>
 
-### 🚀 Minhas Stacks
+### Certifications
+![BFD Softex](https://img.shields.io/badge/BFD%20Softex%20Python%20Certification-fff?style=flat&logo=python&logoColor=FFFFFF&labelColor=1e1c28)
+![FAST Cyber-2025](https://img.shields.io/badge/CESAR%20FAST%20Certified%20Cybersecurity%20introduction-fff?style=flat&logo=redhat&logoColor=FFFFFF&labelColor=1e1c28)
+<br><br>
+
+### Minhas Stacks
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/></code>
@@ -49,11 +54,12 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=11&theme=tokyonight&size_weight=0.5&count_weight=0.5">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhenriquex&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5">
   </a>
-</div>
 
 <br><br>
-───────── • ───────────────── • ───────────────── • ───────────────── • ─────────
+───────── • ────────────────── • ────────────────── • ────────────────── • ─────────
 <br><br>
+
+</div>
 
 ## 🌷 Sobre mim
 
@@ -144,7 +150,7 @@
 
 <div align="center">
   <br><br>
-  ───────── • ───────────────── • ───────────────── • ───────────────── • ─────────
+  ───────── • ────────────────── • ────────────────── • ────────────────── • ─────────
   <br><br>
   
   ## 💬 Connect with me
