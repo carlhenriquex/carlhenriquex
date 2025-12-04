@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hello world! Eu sou o Carlos</h1>
+<h1>
+	<span>👋 Hello world! I'm Carl</span>
+	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/carlhenriquex">
+	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/carlhenriquex?style=social">
+</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.
@@ -6,17 +10,16 @@
 <p align="center">
   "Apaixone-se pelos problemas, não pela solução" - Uri Levini
 </p>
-<br><br>
 
----
+<br>
 
-### Back-End Software Scientist | Web & Mobile Developer
+## Back-End Software Scientist | Web & Mobile Developer
 
 <!-- Badges -->
 <div display="flex">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Tecnologia-skyblue?style=flat&labelColor=blue" alt="Static Badge" width="120px">
-  <img src="https://img.shields.io/badge/%F0%9F%94%90-Cybersecurity-red?style=flat&labelColor=blue" alt="Static Badge" width="140px">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Web%20design-green?style=flat&labelColor=blue" alt="Static Badge" width="128px">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Technology-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="110px">
+  <img src="https://img.shields.io/badge/%F0%9F%94%90-Cybersecurity-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="130px">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Web%20design-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="118px">
 </div>
 <br><br>
 
@@ -30,6 +33,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+<br><br>
 
 ---
 
@@ -48,7 +52,7 @@
 </div>
 
 <br><br>
-───────── ✦ ───────────────── ✦ ───────────────── ✦ ───────────────── ✦ ─────────
+───────── • ───────────────── • ───────────────── • ───────────────── • ─────────
 <br><br>
 
 ## 🌷 Sobre mim
@@ -140,12 +144,13 @@
 
 <div align="center">
   <br><br>
-  ───────── ✦ ───────────────── ✦ ───────────────── ✦ ───────────────── ✦ ─────────
+  ───────── • ───────────────── • ───────────────── • ───────────────── • ─────────
   <br><br>
   
-  ## 💬 Vamos nos conectar?
-  🌸 **Email profissional:** carlhenriquedev@gmail.com 
-  🌸 **LinkedIn:** https://www.linkedin.com/in/carlos-henrique-x/
+  ## 💬 Connect with me
+  
+  🌸 **Email profissional:** carlhenriquedev@gmail.com <br>
+  🌸 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/in/carlhenriquex-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=1e1c28)](https://www.linkedin.com/in/carl-henrique-x/)
   ou confira meus repositórios aqui no GitHub!
 
 </div>
