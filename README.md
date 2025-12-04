@@ -5,6 +5,7 @@
 </h1>
 
 <p align="center">
+	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer" width="350px"> <br>
 	Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código. <br>
 	"Apaixone-se pelos problemas, não pela solução" - Uri Levini <br><br>
 	<img alt="Views" src="https://komarev.com/ghpvc/?username=carlhenriquex&label=profile%20views&base=100&color=blue&abbreviated=true"/>
