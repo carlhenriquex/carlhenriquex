@@ -5,21 +5,19 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.
+	Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código. <br>
+	"Apaixone-se pelos problemas, não pela solução" - Uri Levini <br><br>
+	<img alt="Views" src="https://komarev.com/ghpvc/?username=carlhenriquex&label=profile%20views&base=100&color=blue&abbreviated=true"/>
 </p>
-<p align="center">
-  "Apaixone-se pelos problemas, não pela solução" - Uri Levini
-</p>
-
 <br>
 
 ## Back-End Software Scientist | Web & Mobile Developer
 
 <!-- Badges -->
 <div display="flex">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Technology-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="110px">
-  <img src="https://img.shields.io/badge/%F0%9F%94%90-Cybersecurity-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="130px">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Web%20design-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="118px">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Technology-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="108px">
+  <img src="https://img.shields.io/badge/%F0%9F%94%90-Cybersecurity-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="125px">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Web%20design-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="113px">
 </div>
 <br><br>
 
