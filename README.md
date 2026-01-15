@@ -91,27 +91,7 @@
 ### 🔎 Outros conhecimentos
 - Análise estatística  
 - Documentação científica  
-- Visualização científica elegante  
-
----
-
-## 🌟 Soft Skills
-- Comunicação clara  
-- Organização  
-- Resolução de problemas  
-- Proatividade  
-- Criatividade  
-- Trabalho colaborativo  
-- Aprendizado rápido
-  
-## 💡 Hard Skills 
-### 🖥️ Programação & Dados
-- Python (Pandas, Numpy, Sklearn, Matplotlib)  
-- R para análise estatística  
-- SQL  
-- Power BI  
-- Git & GitHub  
-- Google Colab / Jupyter
+- Visualização científica elegante
 
 ---
 
