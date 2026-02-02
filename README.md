@@ -31,77 +31,28 @@
 <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,git,php,linux,mysql" alt="skills logos"/>
 <br><br>
 
+### Meu Portfólio Pessoal
+[![Carlbytes](https://img.shields.io/badge/carlbytes.com-fff?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28)](https://carlbytes.pages.dev/)
+<br><br>
+
 ───────── • ────────────────── • ────────────────── • ────────────────── • ─────────
 <br><br>
 
 </div>
 
-## 🌷 Sobre mim
+## 👨‍🎓 Sobre mim
 
-- 🧬 **Doutoranda em Bioquímica e Biologia Molecular**  
-- 💻 Focada em **Tecnologia**, **Bioinformática**, **Machine Learning**, **IA** e **Ciência de Dados aplicados à saúde**  
-- 🔬 Interesse especial em **modelagem 3D de moléculas** e aplicações computacionais em saúde e biotecnologia  
-- 🌿 Aesthetic rosa + cottagecore combinada com uma identidade técnica e científica  
-- 🎮 Apaixonada por **jogos**, **natureza**, **música (aprendendo bateria)**, **animais**, **Hello Kitty** e por tudo que deixa a vida mais leve  
-- 🌈 Participante da trilha de desenvolvimento no **HackaPride**
+- 💻 Graduando em **Ciência da Computação**  
+- 🎯 Focado em **Backend**, **Machine Learning**, **Automação**, e **Servidores**  
+- 🔬 Interesse especial em **Mecatrônica** e suas aplicações em tecnologias e IoT
+- ♟️ Apaixonado por **Damas**, **Xadrez**, **filosofia**, **futebol**, e por tudo que desafia minha mente a se tornar melhor 
+- ➡️ Para mais detalhes e certificações visite o meu **portfólio pessoal:** https://carlbytes.pages.dev
 
----
 
-## 🌼 Áreas de Especialização
-- 🌸 **IA e Machine Learning aplicados à saúde**  
-- 🌸 **Ciência de Dados aplicada à biologia e biomedicina**  
-- 🌸 **Bioinformática e pipelines computacionais**  
-- 🌸 **Modelagem molecular e estrutura 3D**  
-- 🌸 **Estatística aplicada à pesquisa científica**  
-- 🌸 **Biotecnologia e análises computacionais**  
 
----
-
-## 💻 Tecnologia
-- Programação aplicada à ciência  
-- Automação de análises e pipelines  
-- Desenvolvimento de scripts para pesquisa  
-- Aplicações de IA/ML para dados biológicos  
-- Ferramentas computacionais para saúde  
-
----
-
-## 📊 Ciência de Dados
-- Análise exploratória  
-- Python para aplicações científicas  
-- Visualização (Power BI & Python)  
-- Machine Learning (aprendizado contínuo)  
-- Extração e limpeza de dados biomédicos  
-
----
-
-## 🧬 Bioinformática
-- Modelagem molecular e 3D  
-- BLAST, FASTA/FASTQ  
-- Manipulação de bancos biológicos  
-- Alinhamento de sequências  
-- BioPython (em progresso)  
-
-### 🔬 Bioinformática
-- Docking molecular  
-- PyMOL, Chimera, SwissModel  
-- NCBI Tools  
-- BLAST / FASTA / FASTQ  
-
-### 🔎 Outros conhecimentos
-- Análise estatística  
-- Documentação científica  
-- Visualização científica elegante
-
----
-
-## 🌸 Projetos em construção
-- 🧬 Scripts para análise de sequências  
-- 🧪 Modelagem molecular em Python  
-- 🤖 ML aplicado a dados biológicos  
-- 🧹 Automação de pipelines científicos  
-- 📊 Dashboards biomédicos  
-- 🌿 Projetos educacionais em bioinformática  
+## 🔄️ Projetos em construção
+- Portfólio pessoal  
+ 
 
 <div align="center">
   <br><br>
@@ -110,8 +61,8 @@
   
   ## 💬 Connect with me
   
-  🌸 **Email profissional:** carlhenriquedev@gmail.com <br>
-  🌸 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/in/carlhenriquex-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=1e1c28)](https://www.linkedin.com/in/carl-henrique-x/)
+   **Email profissional:** carlhenriquedev@gmail.com <br>
+   **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/in/carlhenriquex-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=1e1c28)](https://www.linkedin.com/in/carloshenriquex/)
   ou confira meus repositórios aqui no GitHub!
 
 </div>
