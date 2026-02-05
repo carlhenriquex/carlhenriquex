@@ -32,7 +32,7 @@
 <br><br>
 
 ### Meu Portfólio Pessoal
-[![Carlbytes](https://img.shields.io/badge/carlbytes.com-fff?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28)](https://carlbytes.pages.dev/)
+[![Carlbytes](https://img.shields.io/badge/carlbytes.com-fff?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28)](https://carlbytes.online)
 <br><br>
 
 ───────── • ────────────────── • ────────────────── • ────────────────── • ─────────
@@ -46,7 +46,7 @@
 - 🎯 Focado em **Backend**, **Machine Learning**, **Automação**, e **Servidores**  
 - 🔬 Interesse especial em **Mecatrônica** e suas aplicações em tecnologias e IoT
 - ♟️ Apaixonado por **Damas**, **Xadrez**, **filosofia**, **futebol**, e por tudo que desafia minha mente a se tornar melhor 
-- ➡️ Para mais detalhes e certificações visite o meu **portfólio pessoal:** https://carlbytes.pages.dev
+- ➡️ Para mais detalhes e certificações visite o meu **portfólio pessoal:** https://carlbytes.online
 
 
 
