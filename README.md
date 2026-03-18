@@ -12,13 +12,13 @@
 </p>
 <br>
 
-## Back-End Software Scientist | Web & Mobile Developer
+## Back-End Software Scientist | Web Developer & Cybersecurity Specialist
 
 <!-- Badges -->
 <div display="flex">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB-Technology-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="108px">
   <img src="https://img.shields.io/badge/%F0%9F%94%90-Cybersecurity-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="125px">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Web%20design-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="113px">
+  <img src="https://img.shields.io/badge/Web%20development-white?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28" alt="Static Badge" width="155px">
 </div>
 <br><br>
 
@@ -28,7 +28,7 @@
 <br><br>
 
 ### Minhas Stacks
-<img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,git,php,linux,mysql" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,laravel,linux,mysql" alt="skills logos"/>
 <br><br>
 
 ### Meu Portfólio Pessoal
