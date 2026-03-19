@@ -28,7 +28,7 @@
 <br><br>
 
 ### Minhas Stacks
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,laravel,linux,mysql" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,django,laravel,linux,mysql" alt="skills logos"/>
 <br><br>
 
 ### Meu Portfólio Pessoal
