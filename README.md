@@ -25,10 +25,11 @@
 ### Certifications
 ![BFD Softex](https://img.shields.io/badge/BFD%20Softex%20Python%20Certification-fff?style=flat&logo=python&logoColor=FFFFFF&labelColor=1e1c28)
 ![FAST Cyber-2025](https://img.shields.io/badge/CESAR%20FAST%20Certified%20Cybersecurity%20introduction-fff?style=flat&logo=redhat&logoColor=FFFFFF&labelColor=1e1c28)
+![FAST Cyber-2025](https://img.shields.io/badge/SENAI%20Certified%20IT%20management-fff?style=flat&logo=icloud&logoColor=FFFFFF&labelColor=1e1c28)
 <br><br>
 
 ### Minhas Stacks
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,django,laravel,linux,mysql" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,docker,kubernetes,django,laravel,linux,mysql,postgresql" alt="skills logos"/>
 <br><br>
 
 ### Meu Portfólio Pessoal
@@ -43,7 +44,7 @@
 ## 👨‍🎓 Sobre mim
 
 - 💻 Graduando em **Ciência da Computação**  
-- 🎯 Focado em **Backend**, **Machine Learning**, **Automação**, e **Servidores**  
+- 🎯 Focado em **Backend**, **Machine Learning**, **Cloud**, e **Servidores**  
 - 🔬 Interesse especial em **Mecatrônica** e suas aplicações em tecnologias e IoT
 - ♟️ Apaixonado por **Damas**, **Xadrez**, **filosofia**, **futebol**, e por tudo que desafia minha mente a se tornar melhor 
 - ➡️ Para mais detalhes e certificações visite o meu **portfólio pessoal:** https://carlbytes.online
