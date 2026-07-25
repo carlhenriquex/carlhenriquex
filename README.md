@@ -33,8 +33,8 @@
 <br><br>
 
 <div>
-  <img src="https://ghstats.dev/api/card?username=carlhenriquex&theme=dark" width="48%" /> <br>
-  <img src="https://ghstats.dev/api/langs?username=carlhenriquex&theme=dark" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=carlhenriquex&theme=dark" alt="GitHub Stats Card"/> <br>
+  <img src="https://ghstats.dev/api/langs?username=carlhenriquex&theme=dark&border_radius=0&max_langs=12&layout=horizontal_list" alt="Top Languages" />
 </div>
 
 ### Meu Portfólio Pessoal
@@ -48,8 +48,8 @@
 
 ## 👨‍🎓 Sobre mim
 
-- 💻 Graduando em **Ciência da Computação**  
-- 🎯 Focado em **Backend**, **Machine Learning**, **Cloud**, e **Servidores**  
+- 💻 Formado em **Desenvolvimento de Sistemas**, **Design Grafico** e graduando em **Ciência da Computação**  
+- 🎯 Focado em **Backend**, **DevOps**, **Cloud**, e **Servidores**  
 - 🔬 Interesse especial em **Mecatrônica** e suas aplicações em tecnologias e IoT
 - ♟️ Apaixonado por **Damas**, **Xadrez**, **filosofia**, **futebol**, e por tudo que desafia minha mente a se tornar melhor 
 - ➡️ Para mais detalhes e certificações visite o meu **portfólio pessoal:** https://carlbytes.online
