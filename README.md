@@ -32,6 +32,11 @@
 <img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,docker,kubernetes,django,laravel,linux,mysql,postgresql" alt="skills logos"/>
 <br><br>
 
+<div>
+  <img src="https://ghstats.dev/api/card?username=carlhenriquex&theme=dark" width="48%" /> <br>
+  <img src="https://ghstats.dev/api/langs?username=carlhenriquex&theme=dark" width="48%" />
+</div>
+
 ### Meu Portfólio Pessoal
 [![Carlbytes](https://img.shields.io/badge/carlbytes.com-fff?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28)](https://carlbytes.online)
 <br><br>
