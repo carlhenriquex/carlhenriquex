@@ -29,7 +29,7 @@
 <br><br>
 
 ### Minhas Stacks
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,docker,kubernetes,django,laravel,linux,mysql,postgresql" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,docker,kubernetes,django,linux,mysql,postgresql" alt="skills logos"/>
 <br><br>
 
 <div>
