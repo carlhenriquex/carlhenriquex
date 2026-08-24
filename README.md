@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,nodejs,githubactions" alt="skills logos"/>
 
 #### Nível iniciante:
-<img src="https://skillicons.dev/icons?i=php,postgresql" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=aws,php,postgresql" alt="skills logos"/>
 <br><br>
 
 <div>
