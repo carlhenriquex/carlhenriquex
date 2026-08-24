@@ -29,7 +29,15 @@
 <br><br>
 
 ### Minhas Stacks
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,docker,kubernetes,django,linux,mysql,postgresql" alt="skills logos"/>
+
+#### Nível avançado:
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,docker,linux,mysql" alt="skills logos"/>
+
+#### Nível Intermediário:
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,nodejs,githubactions" alt="skills logos"/>
+
+#### Nível iniciante:
+<img src="https://skillicons.dev/icons?i=php,postgresql" alt="skills logos"/>
 <br><br>
 
 <div>
