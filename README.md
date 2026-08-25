@@ -12,7 +12,7 @@
 </p>
 <br>
 
-## Back-End Software Scientist | Web Developer & Cybersecurity Specialist
+## Back-End Software Scientist | Web Developer & DevOps Specialist
 
 <!-- Badges -->
 <div display="flex">
