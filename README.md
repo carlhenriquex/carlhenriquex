@@ -17,7 +17,7 @@
 <!-- Badges -->
 <div display="flex">
 	<img src="https://img.shields.io/badge/%F0%9F%92%BB-Technology-white?style=flat&labelColor=1e1c28" alt="Static Badge" width="108px">
-	<img src="https://img.shields.io/badge/DevOps-white?style=flat&labelColor=1e1c28&logo=kubernetes&logoColor=white" alt="DevOps" width="90px">
+	<img src="https://img.shields.io/badge/DevOps%20engineer-white?style=flat&labelColor=1e1c28&logo=kubernetes&logoColor=white" alt="DevOps" width="155px">
 	<img src="https://img.shields.io/badge/Web%20development-white?style=flat&logo=rss&logoColor=FFFFFF&labelColor=1e1c28" alt="Static Badge" width="155px">
 </div>
 <br><br>
