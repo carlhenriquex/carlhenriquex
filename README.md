@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,docker,linux,mysql&theme=light" alt="skills logos"/>
 
 #### Nível Intermediário:
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,nodejs,githubactions&theme=light" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,nodejs,jenkins,githubactions&theme=light" alt="skills logos"/>
 
 #### Nível iniciante:
 <img src="https://skillicons.dev/icons?i=aws,php,postgresql&theme=light" alt="skills logos"/>
