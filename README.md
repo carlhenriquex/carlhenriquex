@@ -25,19 +25,23 @@
 ### Certifications
 ![BFD Softex](https://img.shields.io/badge/BFD%20Softex%20Python%20Certification-fff?style=flat&logo=python&logoColor=FFFFFF&labelColor=1e1c28)
 ![FAST Cyber-2025](https://img.shields.io/badge/CESAR%20FAST%20Certified%20Cybersecurity%20introduction-fff?style=flat&logo=redhat&logoColor=FFFFFF&labelColor=1e1c28)
-![FAST Cyber-2025](https://img.shields.io/badge/SENAI%20Certified%20IT%20management-fff?style=flat&logo=icloud&logoColor=FFFFFF&labelColor=1e1c28)
+![SENAI IT-2026](https://img.shields.io/badge/SENAI%20Certified%20IT%20management-fff?style=flat&logo=icloud&logoColor=FFFFFF&labelColor=1e1c28)
+![SENAC Front-2026](https://img.shields.io/badge/SENAC%20Certified%20Frontend-fff?style=flat&logo=devbox&logoColor=FFFFFF&labelColor=1e1c28)
 <br><br>
 
 ### Minhas Stacks
 
-#### Nível avançado:
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,docker,linux,mysql&theme=light" alt="skills logos"/>
+#### Languages:
+<img src="https://skillicons.dev/icons?i=python,js,php&theme=light" alt="skills logos"/>
 
-#### Nível Intermediário:
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,nodejs,jenkins,githubactions&theme=light" alt="skills logos"/>
+#### Back-end:
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,mysql,postgresql&theme=light" alt="skills logos"/>
 
-#### Nível iniciante:
-<img src="https://skillicons.dev/icons?i=aws,php,postgresql&theme=light" alt="skills logos"/>
+#### Front-end:
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=light" alt="skills logos"/>
+
+#### Infrastructure:
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,jenkins,githubactions&theme=light" alt="skills logos"/>
 <br><br>
 
 <div>
