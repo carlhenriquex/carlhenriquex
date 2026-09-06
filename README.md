@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=light" alt="skills logos"/>
 
 #### Infrastructure:
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,jenkins,githubactions&theme=light" alt="skills logos"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,terraform,aws,jenkins,githubactions&theme=light" alt="skills logos"/>
 <br><br>
 
 <div>
